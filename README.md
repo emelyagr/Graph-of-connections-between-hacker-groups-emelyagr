@@ -1,5 +1,5 @@
 <h1>Граф связей хакерских группировок emelyagr</h1>
-<img src="https://github.com/emelyagr/Graph-of-connections-between-hacker-groups-emelyagr/blob/main/Граф%20связей%20хакерских%20группировок%20emelyagr.png" class="center" width="300" height="450"> 
+<img src="https://github.com/emelyagr/Graph-of-connections-between-hacker-groups-emelyagr/blob/main/Граф%20связей%20хакерских%20группировок%20emelyagr.png" class="center" width="300" height="400"> 
 Граф связей хакерских группировок emelyagr — программа для построения графа связей хакерских группировок.
 
 <h2>Использование</h2>
